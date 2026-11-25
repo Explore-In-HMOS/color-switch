@@ -2,7 +2,7 @@
 
 # ColorSwitch
 
-ColorSwitch is a HarmonyOS Next app designed to improve focus, reaction time, and memory through interactive color-based training games.
+ColorSwitch is a HarmonyOS app designed to improve focus, reaction time, and memory through interactive color-based training games.
 Users can select a difficulty mode (Easy, Medium, Hard, Expert), complete timed tasks, and receive feedback with scores and badges.
 
 # Preview
